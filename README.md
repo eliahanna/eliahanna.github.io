@@ -1,6 +1,6 @@
-# eliahanna.github.io
+# Eli Hanna
 Hello world
 
 ## Project 1
 
-# Project 2
+## Project 2
